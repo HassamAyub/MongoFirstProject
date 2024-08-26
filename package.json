@@ -4,7 +4,7 @@
   "description": "it's my first Mongo DB Project<br>\r Author: Hassam Ayub",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
